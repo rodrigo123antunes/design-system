@@ -1,4 +1,3 @@
-import React from 'react'
 import { colors } from '@bonapaz-ui/tokens'
 import { getContrast } from 'polished'
 
