@@ -1,3 +1,3 @@
-import { colors } from '@bonapaz-ui/tokens';
+import { colors } from '@bonapaz-ui/tokens'
 
-console.log(colors);
+console.log(colors)
