@@ -27,14 +27,14 @@
         "vite": "^3.1.4"
     },
     "dependencies": {
-      "@bonapaz-ui/eslint-config": "*",
-      "@bonapaz-ui/react": "*",
-      "@bonapaz-ui/tokens": "*",
-      "@bonapaz-ui/ts-config": "*",
-      "@storybook/addon-a11y": "^6.5.12",
-      "phosphor-react": "^1.4.1",
-      "polished": "^4.2.2",
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
+        "@bonapaz-ui/eslint-config": "*",
+        "@bonapaz-ui/react": "*",
+        "@bonapaz-ui/tokens": "*",
+        "@bonapaz-ui/ts-config": "*",
+        "@storybook/addon-a11y": "^6.5.12",
+        "phosphor-react": "^1.4.1",
+        "polished": "^4.2.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
     }
 }
