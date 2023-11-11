@@ -1,5 +1,11 @@
 # @bonapaz-ui/react
 
+## 5.0.0
+
+### Major Changes
+
+- fixes
+
 ## 4.0.0
 
 ### Major Changes
