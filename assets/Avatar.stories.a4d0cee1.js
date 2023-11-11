@@ -1,0 +1,2 @@
+import{A as t}from"./index.6bd64796.js";import"./index.db48d4a6.js";import"./iframe.337deb71.js";import"./index.5eea95da.js";import"./jsx-runtime.bb6ba23c.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rodrigo123antunes.png",alt:"Rodrigo Antunes"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.a4d0cee1.js.map
